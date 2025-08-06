@@ -1,5 +1,5 @@
 *.js linguist-language=MATLAB
 *.css linguist-language=MATLAB
 *.html linguist-language=MATLAB
-*.java linguist-language=MATLAB
+*.MATLAB linguist-language=MATLAB
 
